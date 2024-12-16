@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR10FOM", "PR10FOM\PR10FOM.csproj", "{227B8E5A-E03B-42FF-922B-7D3CA9FB2AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227B8E5A-E03B-42FF-922B-7D3CA9FB2AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227B8E5A-E03B-42FF-922B-7D3CA9FB2AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227B8E5A-E03B-42FF-922B-7D3CA9FB2AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227B8E5A-E03B-42FF-922B-7D3CA9FB2AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
