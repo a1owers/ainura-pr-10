@@ -25,8 +25,8 @@ namespace WpfLibrary1
 
         public class ainura
         {
-            public int chet { get; set; } = 0; // Инициализация
-            public int nechet { get; set; } = 0; // Инициализация
+            public int chet { get; set; } = 0; 
+            public int nechet { get; set; } = 0;
         }
     }
 }
